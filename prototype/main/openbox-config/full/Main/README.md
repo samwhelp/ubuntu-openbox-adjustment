@@ -32,10 +32,10 @@
 
 | Config File Path |
 | --- |
-| [~/.openbox/rc.xml](./asset/overlay/etc/skel/.openbox/rc.xml) |
-| [~/.openbox/menu.xml](./asset/overlay/etc/skel/.openbox/menu.xml) |
-| [~/.openbox/autostart](./asset/overlay/etc/skel/.openbox/autostart) |
-| [~/.openbox/environment](./asset/overlay/etc/skel/.openbox/environment) |
+| [~/.config/openbox/rc.xml](./asset/overlay/etc/skel/.config/openbox/rc.xml) |
+| [~/.config/openbox/menu.xml](./asset/overlay/etc/skel/.config/openbox/menu.xml) |
+| [~/.config/openbox/autostart](./asset/overlay/etc/skel/.config/openbox/autostart) |
+| [~/.config/openbox/environment](./asset/overlay/etc/skel/.config/openbox/environment) |
 
 
 
